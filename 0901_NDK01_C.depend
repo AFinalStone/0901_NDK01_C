@@ -1,5 +1,23 @@
 # depslib dependency file v1.0
-1514140574 source:d:\android\ndk_project\0901_ndk01_c\main.c
+1653402286 source:d:\android\ndk_project\0901_ndk01_c\01_main.c
+
+1653401665 source:d:\android\ndk_project\0901_ndk01_c\test_extern_a.c
 	<stdio.h>
-	<stdlib.h>
+
+1653401568 source:d:\android\ndk_project\0901_ndk01_c\test_extern_b.c
+	<stdio.h>
+
+1653403149 source:d:\android\ndk_project\0901_ndk01_c\02_test_extern_b.c
+
+1653403154 source:d:\android\ndk_project\0901_ndk01_c\02_test_extern_a.c
+
+1653404616 source:d:\android\ndk_project\0901_ndk01_c\03_method.c
+
+1653405586 source:d:\android\ndk_project\0901_ndk01_c\04_enum.c
+
+1653406882 source:d:\android\ndk_project\0901_ndk01_c\05_pointer.c
+	<stdio.h>
+
+1653407118 source:d:\android\ndk_project\0901_ndk01_c\06_array.c
+	<stdio.h>
 

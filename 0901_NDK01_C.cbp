@@ -31,7 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="01_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="02_test_extern_a.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="02_test_extern_b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="03_method.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="04_enum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="05_pointer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="06_array.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
